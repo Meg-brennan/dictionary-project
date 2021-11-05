@@ -1,13 +1,22 @@
+.App {
+  background: #f9f8fe;
+}
+
 .App header {
   text-align: center;
-  margin: 30px 0;
+  padding-top: 30px;
+  margin-bottom: 30px;
+}
+
+.App h1 {
+  font-size: 48px;
 }
 
 .App footer {
-  margin: 30px 0;
+  padding: 30px 0;
 }
 
-.App {
+body {
   background: #f9f8fe;
 }
 
