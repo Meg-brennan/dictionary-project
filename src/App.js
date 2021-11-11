@@ -9,7 +9,7 @@ export default function App() {
           <h1>Dictionary</h1>
         </header>
         <main>
-          <Dictionary defaultKeyword="sunset" />
+          <Dictionary defaultKeyword="mountain" />
         </main>
         <footer className="text-center mt-4">
           <small>

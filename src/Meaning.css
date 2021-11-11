@@ -4,8 +4,14 @@
   font-weight: bold;
 }
 
+.Meaning .definition {
+  font-size: 18px;
+  padding-top: 12px;
+}
+
 .Meaning .example {
   font-style: italic;
+  font-size: 17px;
   opacity: 0.8;
   margin-top: 10px;
 }
