@@ -1,9 +1,9 @@
 .body {
   background: linear-gradient(
     109.6deg,
-    rgb(17, 151, 147) 11.2%,
-    rgb(154, 214, 212) 50%,
-    rgb(255, 233, 171) 100.2%
+    rgb(137, 221, 189) 11.2%,
+    rgb(169, 221, 219) 50%,
+    rgb(248, 232, 186) 100.2%
   );
 }
 
@@ -19,7 +19,7 @@
 }
 
 .App h1 {
-  font-size: 48px;
+  font-size: 46px;
 }
 
 .App footer {
